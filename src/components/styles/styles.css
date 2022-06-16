@@ -1,0 +1,18 @@
+#Top{
+    text-align:left;
+    color: chartreuse;
+}
+body{
+    background-color: black;
+}
+.movieImage{
+    margin-top: 20px;
+    width: 200px;
+    height: 200px;
+}
+.con{
+    background-color: black;
+}
+html{
+    background-color: black;
+}
